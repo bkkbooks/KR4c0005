@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4c0005/WYG/v1/juan/7
+seq: 7
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 書
+  hash: sha256:d48e61f572566a32c300f075b26de1850e603ace2b4368e110d45a118cd922c4
+metadata:
+  title: 幽憂子集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-09-11 07:44:49.967154'
+  source:
+    repository: kanripo
+    path: KR4c0005/KR4c0005_007.txt
+hash: sha256:0c8f9b6a6f4265d62baf53a642946378912f819170092c91e06abcc70aa46bb0

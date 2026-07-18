@@ -516,6 +516,7 @@ markers:
       ', id: KR4c0005_krp_008-bkkkrnewl83}
   - {type: line-break, offset: 1223, content: '', id: KR4c0005_SBCK_008-5b07}
   - {type: punctuation, offset: 1226, content: (, id: KR4c0005_krp_008-bkkpn1}
+  - {type: voice, offset: 1226, length: 4, name: note, id: n1}
   - {type: punctuation, offset: 1228, content: /, id: KR4c0005_krp_008-bkkpn2}
   - {type: punctuation, offset: 1230, content: ), id: KR4c0005_krp_008-bkkpn3}
   - {type: 'kr:newline', offset: 1230, content: '
@@ -574,6 +575,7 @@ markers:
   - {type: line-break, offset: 1392, content: '', id: KR4c0005_SBCK_008-6a08}
   - {type: variant, offset: 1397, length: 7, content: 二十卷僉載朝野, WYG: 巻七}
   - {type: punctuation, offset: 1400, content: (, id: KR4c0005_krp_008-bkkpn4}
+  - {type: voice, offset: 1400, length: 4, name: note, id: n2}
   - {type: punctuation, offset: 1402, content: /, id: KR4c0005_krp_008-bkkpn5}
   - {type: punctuation, offset: 1404, content: ), id: KR4c0005_krp_008-bkkpn6}
   - {type: 'kr:newline', offset: 1404, content: '
@@ -584,4 +586,4 @@ markers:
 
       ', id: KR4c0005_krp_008-bkkkrnewl96}
   back: []
-hash: sha256:b7f3f718965b80ff81561f89150a1c0d0a6b96b0cf01e2ea63a5b4d00aee4916
+hash: sha256:f3285817c6454c427a11924bebe91259aa7c63de448955e68641cdd52251e58f
